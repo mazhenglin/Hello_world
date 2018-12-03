@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-  cout<<"my name is mzl"<<endl;
+  int my_age;
+  cin>>my_age;
+  cout<<"my name is mzl: "<<my_age<<" years old."<<endl;
   return 0;
 }
